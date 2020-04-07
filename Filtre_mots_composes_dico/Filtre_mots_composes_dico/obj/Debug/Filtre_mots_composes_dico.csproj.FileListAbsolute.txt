@@ -1,0 +1,8 @@
+H:\Jade\Filtre_mots_composes_dico\Filtre_mots_composes_dico\bin\Debug\Filtre_mots_composes_dico.exe.config
+H:\Jade\Filtre_mots_composes_dico\Filtre_mots_composes_dico\bin\Debug\Filtre_mots_composes_dico.exe
+H:\Jade\Filtre_mots_composes_dico\Filtre_mots_composes_dico\bin\Debug\Filtre_mots_composes_dico.pdb
+H:\Jade\Filtre_mots_composes_dico\Filtre_mots_composes_dico\obj\Debug\Filtre_mots_composes_dico.exe
+H:\Jade\Filtre_mots_composes_dico\Filtre_mots_composes_dico\obj\Debug\Filtre_mots_composes_dico.pdb
+H:\PROJET INFOV2\PROJET INFO\Filtre_mots_composes_dico\Filtre_mots_composes_dico\bin\Debug\Filtre_mots_composes_dico.exe.config
+H:\PROJET INFOV2\PROJET INFO\Filtre_mots_composes_dico\Filtre_mots_composes_dico\obj\Debug\Filtre_mots_composes_dico.exe
+H:\PROJET INFOV2\PROJET INFO\Filtre_mots_composes_dico\Filtre_mots_composes_dico\obj\Debug\Filtre_mots_composes_dico.pdb

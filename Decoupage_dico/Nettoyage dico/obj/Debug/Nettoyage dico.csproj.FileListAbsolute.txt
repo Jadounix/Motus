@@ -1,0 +1,15 @@
+H:\Projet_Motus\Nettoyage dico\Nettoyage dico\bin\Debug\Nettoyage dico.exe.config
+H:\Projet_Motus\Nettoyage dico\Nettoyage dico\bin\Debug\Nettoyage dico.exe
+H:\Projet_Motus\Nettoyage dico\Nettoyage dico\bin\Debug\Nettoyage dico.pdb
+H:\Projet_Motus\Nettoyage dico\Nettoyage dico\obj\Debug\Nettoyage dico.csprojResolveAssemblyReference.cache
+H:\Projet_Motus\Nettoyage dico\Nettoyage dico\obj\Debug\Nettoyage dico.exe
+H:\Projet_Motus\Nettoyage dico\Nettoyage dico\obj\Debug\Nettoyage dico.pdb
+H:\Jade\Nettoyage dico\Nettoyage dico\bin\Debug\Nettoyage dico.exe.config
+H:\Jade\Nettoyage dico\Nettoyage dico\obj\Debug\Nettoyage dico.exe
+H:\Jade\Nettoyage dico\Nettoyage dico\obj\Debug\Nettoyage dico.pdb
+H:\Jade\Nettoyage dico\Nettoyage dico\bin\Debug\Nettoyage dico.exe
+H:\Jade\Nettoyage dico\Nettoyage dico\bin\Debug\Nettoyage dico.pdb
+H:\Jade\Nettoyage dico\Nettoyage dico\obj\Debug\Nettoyage dico.csprojResolveAssemblyReference.cache
+H:\Progra\VERSION LA PLUS RECENTE\PROJET INFOV2\PROJET INFO\Decoupage_dico\Nettoyage dico\bin\Debug\Nettoyage dico.exe.config
+H:\Progra\VERSION LA PLUS RECENTE\PROJET INFOV2\PROJET INFO\Decoupage_dico\Nettoyage dico\obj\Debug\Nettoyage dico.exe
+H:\Progra\VERSION LA PLUS RECENTE\PROJET INFOV2\PROJET INFO\Decoupage_dico\Nettoyage dico\obj\Debug\Nettoyage dico.pdb
